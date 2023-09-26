@@ -1,0 +1,4 @@
+git clone "URL du repertory"
+git add ./ #transfert tous les fichier
+git commit -m "message" #permet d'envoyer un message au push
+git push #pour le versionning
